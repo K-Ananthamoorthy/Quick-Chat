@@ -10,6 +10,8 @@ This is a **real-time chat application** built using the following technologies:
 - **Express.js** for the backend server.
 - **Socket.io** for real-time, bidirectional communication between clients and the server.
 
+[Chat App ](/client/src/assets/quick_chat.png)
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
